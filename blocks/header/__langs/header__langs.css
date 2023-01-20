@@ -10,7 +10,7 @@
   padding-top: 18px;
 }
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:750px) {
   .header__langs {
     font-size: 18px;
     line-height: 20px;
