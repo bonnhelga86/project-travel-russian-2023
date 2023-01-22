@@ -2,7 +2,7 @@
   width: 984px;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1041px) {
   .lead__wrap {
     width: 928px;
   }

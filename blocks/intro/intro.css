@@ -1,0 +1,35 @@
+.intro {
+  max-width: 984px;
+  margin: 0 auto;
+  min-height: 429px;
+  padding-bottom: 92px;
+  color: #fff;
+}
+
+@media screen and (max-width: 1041px) {
+  .intro {
+    max-width: 928px;
+   }
+}
+
+@media screen and (max-width: 993px) {
+  .intro {
+    max-width: 690px;
+    margin: 0;
+    padding-left: 24px;
+   }
+}
+
+@media screen and (max-width: 785px) {
+  .intro {
+    max-width: 720px;
+    padding-bottom: 88px;
+  }
+}
+
+@media screen and (max-width:750px) {
+  .intro {
+    max-width: auto;
+    padding: 0 16px 64px;
+  }
+}

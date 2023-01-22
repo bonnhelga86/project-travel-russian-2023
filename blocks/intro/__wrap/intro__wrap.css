@@ -1,0 +1,9 @@
+.intro__wrap {
+  max-width: 690px;
+}
+
+@media screen and (max-width: 785px) {
+  .intro__wrap {
+    max-width: auto;
+   }
+}
