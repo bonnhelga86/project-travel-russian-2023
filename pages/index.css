@@ -28,3 +28,5 @@
 @import url("../blocks/intro/__list-item/_font/intro__list-item_font_norm.css");
 @import url("../blocks/intro/__list-item/_font/intro__list-item_font_black.css");
 
+@import url("../blocks/photo/photo.css");
+@import url("../blocks/photo/__item/photo__item.css");
