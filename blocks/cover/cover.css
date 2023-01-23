@@ -1,0 +1,35 @@
+.cover {
+  height: calc((100vw - 96px - 17px)*.625);
+  margin: 0 48px;
+  color: #fff;
+  background: url("../../images/To-Baykal.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: relative;
+  /*display: flex;
+  justify-content: center;
+  align-items: center;*/
+}
+
+.cover::before {
+  content: "";
+  position: absolute;
+  background: #2A2C2F;
+  opacity: .3;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.cover:hover {
+  opacity: .7;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 1041px) {
+  .cover {
+    margin: 0;
+    height: calc((100vw - 17px)*.625);
+  }
+}
