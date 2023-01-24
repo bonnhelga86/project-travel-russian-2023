@@ -5,6 +5,13 @@
 
 @media screen and (max-width:750px) {
   .logo {
+    width: 159px;
+    height: 47px;
+  }
+}
+
+@media screen and (max-width:520px) {
+  .logo {
     width: 142px;
     height: 42px;
   }

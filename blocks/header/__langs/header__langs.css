@@ -1,6 +1,7 @@
 .header__langs {
   margin: 0;
   padding: 0;
+  list-style-type: none;
   display: flex;
   gap: 18px;
   color: #fff;
@@ -11,6 +12,14 @@
 }
 
 @media screen and (max-width:750px) {
+  .header__langs {
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 16px;
+  }
+}
+
+@media screen and (max-width:520px) {
   .header__langs {
     font-size: 18px;
     line-height: 20px;
