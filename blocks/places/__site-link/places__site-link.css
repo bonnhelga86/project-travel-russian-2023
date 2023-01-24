@@ -4,3 +4,7 @@
   font-size: 18px;
   line-height: 22px;
 }
+
+.places__site-link:hover {
+  cursor: pointer;
+}

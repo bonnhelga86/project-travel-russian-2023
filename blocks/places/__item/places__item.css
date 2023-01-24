@@ -24,7 +24,7 @@
     column-gap: 28px;
   }
   .places__item:not(:last-child){
-    margin-bottom: 72px;
+    margin-bottom: 73px;
   }
 }
 
