@@ -1,4 +1,5 @@
 .places__title {
+  grid-area: title;
   margin: 0;
   font-weight: 900;
   font-size: 72px;
@@ -6,7 +7,7 @@
   padding-right: 20px;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 948px) {
   .places__title {
     font-size: 42px;
     line-height: 46px;
@@ -15,7 +16,7 @@
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 648px) {
   .places__title {
     font-size: 32px;
     line-height: 35px;

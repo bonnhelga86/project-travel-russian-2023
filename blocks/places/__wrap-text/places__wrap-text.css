@@ -1,4 +1,8 @@
-@media screen and (max-width: 650px) {
+.wrap-text {
+  grid-area: wrap-text;
+}
+
+@media screen and (max-width: 648px) {
   .places__wrap-text {
     padding: 0 16px;
   }

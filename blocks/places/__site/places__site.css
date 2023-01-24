@@ -1,4 +1,5 @@
 .places__site {
+  grid-area: site;
   align-self: end;
 }
 

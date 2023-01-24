@@ -1,8 +1,9 @@
 .places__item {
   display: grid;
   grid-template-columns: minmax(440px, 460px) minmax(456px, 484px);
-  grid-template-rows: 1fr min-content;
-  grid-auto-rows: 1fr min-content;
+  grid-template-areas:
+  "title site"
+  "image wrap-text";
   row-gap: 48px;
   column-gap: 40px;
 }
@@ -28,11 +29,14 @@
   }
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 648px) {
   .places__item {
     grid-template-columns: minmax(288px, 1fr);
-    grid-template-rows: repeat(4, min-content);
-    grid-auto-rows: repeat(4, min-content);
+    grid-template-areas:
+    "title"
+    "site"
+    "image"
+    "wrap-text";
     column-gap: 0;
     row-gap: 32px;
   }

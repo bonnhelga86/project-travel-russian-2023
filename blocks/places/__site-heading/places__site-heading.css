@@ -9,6 +9,6 @@
 @media screen and (max-width: 833px) {
   .places__site-heading {
     line-height: 12px;
-    margin: 0 0 12px;
+    margin-bottom: 12px;
   }
 }
