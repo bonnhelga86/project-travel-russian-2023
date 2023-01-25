@@ -8,4 +8,4 @@
 * Flexbox
 * Grid Layout
 
-Ссылка на проект [Путешествие по России](ЗДЕСЬ УКАЗАТь САМУ ССЫЛКУ) на __GitHub Pages__.
+Ссылка на проект [Путешествие по России](https://bonnhelga86.github.io/project-travel-russian-2023/) на __GitHub Pages__.
