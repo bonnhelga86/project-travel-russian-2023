@@ -4,15 +4,27 @@
   padding-top: 245px;
 }
 
-@media screen and (max-width: 1041px) {
+@media screen and (max-width: 1180px) {
   .cover__wrap {
     padding-top: 195px;
+  }
+}
+
+@media screen and (max-width: 940px) {
+  .cover__wrap {
+    padding-top: 155px;
   }
 }
 
 @media screen and (max-width: 785px) {
   .cover__wrap {
     padding-top: 115px;
+  }
+}
+
+@media screen and (max-width: 620px) {
+  .cover__wrap {
+    padding-top: 75px;
   }
 }
 
