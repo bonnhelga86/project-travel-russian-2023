@@ -4,6 +4,6 @@
 
 @media screen and (max-width: 785px) {
   .intro__wrap {
-    max-width: auto;
+    max-width: 100%;
    }
 }
