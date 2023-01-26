@@ -6,5 +6,5 @@
 }
 
 .places__site-link:hover {
-  cursor: pointer;
+  opacity: .8;
 }

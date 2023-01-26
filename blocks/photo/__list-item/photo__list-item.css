@@ -1,0 +1,4 @@
+.photo__list-item {
+  overflow: hidden;
+  aspect-ratio: 12/9;
+}
