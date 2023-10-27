@@ -1,7 +1,7 @@
 <h1 align='center'>Путешествие по России</h1>
 
 <p align='center'>
- <img src="https://i.giphy.com/media/UaEYgNvqtsAPFm8nsi/giphy.webp" width="300" height="300"/>
+ <img src="https://i.giphy.com/media/l0K4aAjMMROnB6AOk/giphy.webp" width="300" height="auto"/>
 <p/>
 
 ## Описание проекта
